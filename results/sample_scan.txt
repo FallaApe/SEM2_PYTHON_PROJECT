@@ -1,0 +1,6 @@
+Host: 127.0.0.1
+State: up
+
+Port 22: open
+Port 80: open
+Port 443: open
