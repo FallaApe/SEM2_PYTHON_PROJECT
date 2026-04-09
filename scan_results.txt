@@ -1,0 +1,10 @@
+🔍 Detailed Scan for 192.168.0.197
+--------------------------------------------------
+Host: 192.168.0.197
+Hostname: Unknown Device
+State: up
+No open ports found.
+----------------------------------------
+
+⚠️ No detailed data found.
+Device may be secured or blocking scans.

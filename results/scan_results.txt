@@ -1,0 +1,8 @@
+Host: 127.0.0.1
+State: up
+Port 25 : filtered (smtp)
+Port 110 : filtered (pop3)
+Port 135 : open (msrpc)
+Port 445 : open (microsoft-ds)
+Port 548 : filtered (afp)
+
